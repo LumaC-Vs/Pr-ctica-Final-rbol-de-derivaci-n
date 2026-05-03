@@ -1,0 +1,9 @@
+PyQt5/
+nltk/
+matplotlib/
+networkx/
+numpy/
+*.dist-info/
+*.whl
+__pycache__/
+*.pyc
